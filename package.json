@@ -1,0 +1,24 @@
+{
+  "name": "qap-1-fullstack",
+  "version": "1.0.0",
+  "description": "QAP-1-Work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKells99/QAP-1-FullStack.git"
+  },
+  "author": "Jordan Kelloway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKells99/QAP-1-FullStack/issues"
+  },
+  "homepage": "https://github.com/JKells99/QAP-1-FullStack#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "num-is-even-or-odd": "^1.0.6",
+    "validator": "^13.7.0"
+  }
+}
