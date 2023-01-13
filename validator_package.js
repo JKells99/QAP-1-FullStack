@@ -11,6 +11,6 @@ const emailValiF = validator.isEmail('j_kellowayhotmaillcom') // The string pass
 
 
 
-console.log(emailValiT) // console.logs the response while would be true 
+console.log('j_kelloway@hotmail.com is a '+ emailValiT + " email") // console.logs the response while would be true 
 
-console.log(emailValiF) // console.logs the response while would be false
+console.log('j_kellowayhotmaillcom is a '+ emailValiF+" email") // console.logs the response while would be false
